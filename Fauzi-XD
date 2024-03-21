@@ -1,0 +1,4 @@
+rm -rf FAUZI-XD-2.0
+git clone  https://github.com/FAUZIDON/SADMAN-8.0
+cd BATMAN-8.0
+python BATMAN.py
